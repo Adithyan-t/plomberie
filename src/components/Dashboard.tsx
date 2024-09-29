@@ -23,7 +23,6 @@ const RightContent: React.FC = () => {
 const Dashboard: React.FC = () => {
   return (
     <div className="flex flex-grow h-screen text-white bg-blue-800">
-      {/* Sidebar Section */}
       <Sidebar />
 
       {/* Left Section */}
